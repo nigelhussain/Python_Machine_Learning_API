@@ -17,7 +17,7 @@ To run this web service, first run the python file model.py (or the jupyter note
 The exact same files are here, with the exception of the html files, as we are entering things directly into the terminal. 
 
 ## How to run
-Same as above. 
+Same as above, except enter in terminal
 
 ## Assumptions:
 
