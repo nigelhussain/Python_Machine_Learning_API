@@ -18,3 +18,7 @@ The exact same files are here, with the exception of the html files, as we are e
 
 ## How to run
 Same as above. 
+
+## Assumptions:
+
+We will have to assume that they will enter the command (cancel or order status) in one line and that they will enter all of the required information in the same line as well (order id and account number in the same line)
