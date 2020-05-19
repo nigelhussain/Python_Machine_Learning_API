@@ -8,7 +8,7 @@ I will start by first providing a brief overview of all of the folders and files
 
 
 ## How to run
-To run this web service, first run the python file model.py (or the jupyter notebook) to load the model and then run server.py to run the web service. The server will be defined in the terminal and to use it, just enter something into the form and you click on the respective button. This will produce the wanted output. 
+To run this web service, first run the python file model.py (or the jupyter notebook) to load the model and then run server.py to run the web service. The server will be defined in the terminal and to use it, just enter something into the form and you click on the respective button. This will produce the wanted output
 
 
 
